@@ -2,6 +2,9 @@
 
 > View Specific Methods for Personal consumption
 
+## Current Version
+0.0.1
+
 ## Installation
 
 Add this line to your application's Gemfile:
