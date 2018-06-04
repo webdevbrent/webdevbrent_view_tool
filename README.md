@@ -27,7 +27,7 @@ An example method could be...
 
 ```ruby
   def set_copyright
-    @copyright = WebDevBrentViewTool::Renderer.copyright 'Brent Phillips', 'All rights reserved'
+    @copyright = WebdevbrentViewTool::Renderer.copyright 'Brent Phillips', 'All rights reserved'
   end
 ```
 
