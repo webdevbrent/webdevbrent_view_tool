@@ -20,7 +20,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+An example method could be...
+
+```ruby
+  def set_copyright
+    @copyright = WebDevBrentViewTool::Renderer.copyright 'Brent Phillips', 'All rights reserved'
+  end
+```
 
 ## Development
 
