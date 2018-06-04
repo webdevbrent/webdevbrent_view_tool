@@ -1,6 +1,6 @@
 # WebdevbrentViewTool
 
-> View Specific Methods for Personal consumption
+> View Specific Methods for Personal consumption.
 
 ## Current Version
 0.0.1
